@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9073d88-f810-4a04-8300-6473dd35933a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn/learn007.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn/learn008.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pythonlearn.iws" />
@@ -18,6 +18,7 @@
     <SUITE FILE_PATH="coverage/pythonlearn$learn003.coverage" NAME="learn003 Coverage Results" MODIFIED="1401779659196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/pythonlearn$learn002.coverage" NAME="learn002 Coverage Results" MODIFIED="1401760994199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlearn$learn005.coverage" NAME="learn005 Coverage Results" MODIFIED="1401846082543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/pythonlearn$learn008.coverage" NAME="learn008 Coverage Results" MODIFIED="1401853811274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/pythonlearn$learn001.coverage" NAME="learn001 Coverage Results" MODIFIED="1401443267986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlearn$learn007.coverage" NAME="learn007 Coverage Results" MODIFIED="1401851836715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/pythonlearn$learn006.coverage" NAME="learn006 Coverage Results" MODIFIED="1401849441443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
@@ -85,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learn007.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="learn007.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn/learn007.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.671916" vertical-offset="0" max-vertical-offset="944">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="944">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="learn008.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn/learn008.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.034120735" vertical-offset="291" max-vertical-offset="672">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -138,6 +149,7 @@
         <option value="$PROJECT_DIR$/learn/learn006.py" />
         <option value="$PROJECT_DIR$/learn/learn0067.py" />
         <option value="$PROJECT_DIR$/learn/learn007.py" />
+        <option value="$PROJECT_DIR$/learn/learn008.py" />
       </list>
     </option>
   </component>
@@ -221,26 +233,7 @@
       <recent name="D:\fuboqing\projects\python\pythonlearn\learn" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.learn007">
-    <configuration default="false" name="learn003" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonlearn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/learn003.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.learn008">
     <configuration default="false" name="learn004" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,6 +305,25 @@
       <module name="pythonlearn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/learn007.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="learn008" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonlearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/learn008.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -468,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.learn003" />
-      <item index="1" class="java.lang.String" itemvalue="Python.learn004" />
-      <item index="2" class="java.lang.String" itemvalue="Python.learn005" />
-      <item index="3" class="java.lang.String" itemvalue="Python.learn006" />
-      <item index="4" class="java.lang.String" itemvalue="Python.learn007" />
+      <item index="0" class="java.lang.String" itemvalue="Python.learn004" />
+      <item index="1" class="java.lang.String" itemvalue="Python.learn005" />
+      <item index="2" class="java.lang.String" itemvalue="Python.learn006" />
+      <item index="3" class="java.lang.String" itemvalue="Python.learn007" />
+      <item index="4" class="java.lang.String" itemvalue="Python.learn008" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.learn007" />
-        <item index="1" class="java.lang.String" itemvalue="Python.learn006" />
-        <item index="2" class="java.lang.String" itemvalue="Python.learn005" />
-        <item index="3" class="java.lang.String" itemvalue="Python.learn004" />
-        <item index="4" class="java.lang.String" itemvalue="Python.learn003" />
+        <item index="0" class="java.lang.String" itemvalue="Python.learn008" />
+        <item index="1" class="java.lang.String" itemvalue="Python.learn007" />
+        <item index="2" class="java.lang.String" itemvalue="Python.learn006" />
+        <item index="3" class="java.lang.String" itemvalue="Python.learn005" />
+        <item index="4" class="java.lang.String" itemvalue="Python.learn004" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +542,11 @@
       <created>1401849489086</created>
       <updated>1401849489086</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add the 'learn007.py' file to the project, and something about  test '__init__' and '__new__' default method">
+      <created>1401853065020</created>
+      <updated>1401853065020</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -580,7 +596,8 @@
     <MESSAGE value="add the 'learn004.py' file to the project, and use 'lambda' expression to do something to have you know something" />
     <MESSAGE value="add the 'learn005.py' file to the project" />
     <MESSAGE value="add the 'learn006.py' file to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add the 'learn006.py' file to the project" />
+    <MESSAGE value="add the 'learn007.py' file to the project, and something about  test '__init__' and '__new__' default method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the 'learn007.py' file to the project, and something about  test '__init__' and '__new__' default method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -716,8 +733,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/learn007.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.671916" vertical-offset="0" max-vertical-offset="944">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="944">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/learn008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034120735" vertical-offset="291" max-vertical-offset="672">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding />
         </state>
       </provider>
