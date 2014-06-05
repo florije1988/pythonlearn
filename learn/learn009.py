@@ -1,6 +1,18 @@
 # -*- coding: utf-8 -*-
 __author__ = 'florije'
 
+
+class SuperList(list):
+    def __sub__(self, b):
+        a = self[:]  # 这里，self是SuperList的对象。由于SuperList继承于list，它可以利用和list[:]相同的引用方法来表示整个对象。
+        b = b[:]
+        while len(b) > 0:
+            element_b = b.pop()
+            if element_b in a:
+                a.remove(element_b)
+        return a
+
+
 if __name__ == '__main__':
     list_demo = [1, 2, 5, 3, 5]
     print list_demo.count(4)
@@ -20,4 +32,6 @@ if __name__ == '__main__':
     print(list_demo)
 
     print [1, 2, 3] + [5, 6, 9]
+
+    print SuperList([1, 2, 3]) - SuperList([3, 4])
 
