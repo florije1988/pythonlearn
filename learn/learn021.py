@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+__author__ = 'florije'
+
 from flask import Flask, jsonify, abort, make_response, request, url_for
 from flask.ext.httpauth import HTTPBasicAuth
 
